@@ -4,4 +4,4 @@
 
 **Video**: https://lmb.informatik.uni-freiburg.de/data/RatTrack/data/tutorial_calibration.mp4
 
-See the [FreiCalib](https://github.com/zimmerm/FreiCalib) repository for a step-by-step command reference.
+See the [FreiCalib](https://github.com/lmb-freiburg/FreiCalib) repository for a step-by-step command reference.

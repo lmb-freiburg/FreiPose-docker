@@ -82,6 +82,6 @@ If you have problems with the code or any further questions, please feel free to
 ## Requirements
 
 - Ubuntu 18 (or a comparable Linux operating system)
-- nVIDIA GPU with at least 6GB memory
+- nVIDIA GPU with at least 8GB memory
 - CPU that supports AVX instructions
 - GPU driver that supports at least CUDA 10.0  
