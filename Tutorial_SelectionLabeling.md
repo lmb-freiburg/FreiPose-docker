@@ -4,7 +4,7 @@
 
 **Video**: https://lmb.informatik.uni-freiburg.de/data/RatTrack/data/freipose_tutorial_selection_labeling.mp4
 
-It is assumed that the data of the [Overview Pose Estimation](https://github.com/zimmerm/FreiPose-docker/blob/master/Tutorial_OverviewPose.md) tutorial is available. 
+It is assumed that the data of the [Overview Pose Estimation](https://github.com/lmb-freiburg/FreiPose-docker/blob/master/Tutorial_OverviewPose.md) tutorial is available. 
 
 For selection of frames call
 

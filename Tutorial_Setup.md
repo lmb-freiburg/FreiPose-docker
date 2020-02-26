@@ -49,5 +49,5 @@
 2. Cameras are parametized to record frames when they sense a rising edge on the input line. We employ a low-cost arduino uno board as signal generator. However, any signal generator, which can produce a temporally-stable TTL signal in the desired fps range should work.
 3. We connect same line of all cameras in parallel to a single pin of the arduino. Arduino is programmed to listen to SerialPort and react upon received signals. Signals can be: [ S*int* -start triggering at *int* fps, Q - stop triggering, P - responde if alive, T*string* - send *string* over a pin as ascii characters]. The string output can be used to sent an Id-sequenz or any other information(e.g. video file name) to a sync-system to help identify the corresponding video.
 Our RecordTool implements the commutication with the trigger box.
-4. Arduino code can be found under ![link](https://github.com/zimmerm/RecordTool/blob/master/Arduino_trigger.ino)
+4. Arduino code can be found under ![link](https://github.com/lmb-freiburg/RecordTool/blob/master/Arduino_trigger.ino)
 5. To sync the frame timings with ephys or any other signal we record the frametrigger as digital input with INTAN recording system. INTAN also records other experimental signals and ephys data.
