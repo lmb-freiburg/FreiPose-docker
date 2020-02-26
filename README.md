@@ -1,7 +1,8 @@
 # FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces
 
 **IMPORTANT**
-**Paper is under review and code will be added upon paper acceptance**
+
+**Code will be added upon paper acceptance**
 
 
 We present a general purpose framework to estimate 3D locations of predefined landmarks (f.e. skeletal joints of an animal)
@@ -36,7 +37,7 @@ This is an easy to install Docker container using the code of the [main](https:/
 An introductory tutorial example is shown below that gives an overview of FreiPoses' workflow, for a detailed user guide please consult the main repository.
 
 ## Installation
-**Paper is under review and code will be added upon paper acceptance, so installation is not possible yet.**
+**Code will be added upon paper acceptance, so installation is not possible yet.**
 
 We use [nvidia-docker](https://github.com/NVIDIA/nvidia-docker#quick-start) for easy installation of the framework.
 For installation of Docker follow the steps outlined under the given link. Afterwards you can setup FreiPose by
