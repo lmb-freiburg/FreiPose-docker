@@ -40,7 +40,11 @@ An introductory tutorial example is shown below that gives an overview of FreiPo
 **Code will be added upon paper acceptance, so installation is not possible yet.**
 
 We use [nvidia-docker](https://github.com/NVIDIA/nvidia-docker#quick-start) for easy installation of the framework.
-For installation of Docker follow the steps outlined under the given link. Afterwards you can setup FreiPose by
+For installation of Docker follow the steps outlined under the given link. If you query your system for installed docker images
+
+    dpkg -l | grep docker
+
+it should list: docker-ce, nvidia-docker2 and nvidia-container-runtime. After successful installation you can setup FreiPose by
 
     git clone https://github.com/lmb-freiburg/FreiPose-docker && cd FreiPose-docker && make 
     
