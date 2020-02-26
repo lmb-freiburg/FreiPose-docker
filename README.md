@@ -58,15 +58,15 @@ The videos contain many more explanations and make it much easier to follow the 
 The following textual tutorials are meant as a reference to the most important commands used in the videos and for 
 future reference. 
 
-[Tutorial: Overview Pose Estimation](https://github.com/zimmerm/FreiPose-docker/blob/master/Tutorial_OverviewPose.md)  (~1h)
+[Tutorial: Overview Pose Estimation](https://github.com/lmb-freiburg/FreiPose-docker/blob/master/Tutorial_OverviewPose.md)  (~1h)
 
-[Tutorial: Selection and Labeling](https://github.com/zimmerm/FreiPose-docker/blob/master/Tutorial_SelectionLabeling.md)  (~20min)
+[Tutorial: Selection and Labeling](https://github.com/lmb-freiburg/FreiPose-docker/blob/master/Tutorial_SelectionLabeling.md)  (~20min)
 
-[Tutorial: Calibration](https://github.com/zimmerm/FreiPose-docker/blob/master/Tutorial_Calibration.md)  (~20min)
+[Tutorial: Calibration](https://github.com/lmb-freiburg/FreiPose-docker/blob/master/Tutorial_Calibration.md)  (~20min)
 
-[Tutorial: Configuration Files](https://github.com/zimmerm/FreiPose-docker/blob/master/Tutorial_Configuration.md)  (~15min)
+[Tutorial: Configuration Files](https://github.com/lmb-freiburg/FreiPose-docker/blob/master/Tutorial_Configuration.md)  (~15min)
 
-[Tutorial: Adapt to a new Task](https://github.com/zimmerm/FreiPose-docker/blob/master/Tutorial_NewTask.md)  (~1.5h)
+[Tutorial: Adapt to a new Task](https://github.com/lmb-freiburg/FreiPose-docker/blob/master/Tutorial_NewTask.md)  (~1.5h)
 
 Are you missing a topic in the existing tutorials? Let us know!
 
