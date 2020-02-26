@@ -31,15 +31,16 @@ and is free to use for academic research, when properly cited. For commercial us
 
 ## Overview
 
-This is an easy to install Docker container using the code of the [main](https://github.com/zimmerm/FreiPose) repository.
+This is an easy to install Docker container using the code of the [main](https://github.com/lmb-freiburg/FreiPose) repository.
 An introductory tutorial example is shown below that gives an overview of FreiPoses' workflow, for a detailed user guide please consult the main repository.
 
 ## Installation
+**Paper is under review and code will be added upon paper acceptance, so installation is not possible yet.**
 
 We use [nvidia-docker](https://github.com/NVIDIA/nvidia-docker#quick-start) for easy installation of the framework.
 For installation of Docker follow the steps outlined under the given link. Afterwards you can setup FreiPose by
 
-    git clone https://github.com/zimmerm/FreiPose-docker && cd FreiPose-docker && make 
+    git clone https://github.com/lmb-freiburg/FreiPose-docker && cd FreiPose-docker && make 
     
 to build the Docker container. This process takes several minutes (>10 min). Make sure that all directories up to the `FreiPose` folder mounted have o+x rights, otherwise you will encounter errors when Docker is attempting to mount the shared directory between host and container.
     
