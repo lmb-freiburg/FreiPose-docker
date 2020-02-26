@@ -14,7 +14,7 @@ Our goal is to bring deep learning based methods into the labs, without the need
 This is the code published in conjunction with our recent paper
     
     @TechReport{Freipose2020,
-        author    = {Christian Zimmermann, Artur Schneider, Mansour Alyahyay, Ilka Diester and Thomas Brox},
+        author    = {Christian Zimmermann, Artur Schneider, Mansour Alyahyay, Thomas Brox and Ilka Diester},
         title     = {FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces},
         year      = {2020},
         url          = {"https://lmb.informatik.uni-freiburg.de/projects/freipose/"}
