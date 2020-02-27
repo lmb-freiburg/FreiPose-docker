@@ -13,3 +13,10 @@ For selection of frames call
 To label the selected frames use
 
     python label.py config/model_rat.cfg.json /host/tutorial_data/labeled_set0/
+    
+    
+For more information on the tools also see:
+
+[Selection Tool](https://github.com/lmb-freiburg/FreiPose/blob/master/Readme_Select.md)
+
+[Labeling Tool](https://github.com/lmb-freiburg/FreiPose/blob/master/Readme_Label.md)  
