@@ -1,8 +1,6 @@
 # FreiPose: A Deep Learning Framework for Precise Animal Motion Capture in 3D Spaces
 
-**IMPORTANT**
-
-**Code will be added upon paper acceptance**
+**IMPORTANT: Code will be added upon paper acceptance**
 
 
 We present a general purpose framework to estimate 3D locations of predefined landmarks (f.e. skeletal joints of an animal)
