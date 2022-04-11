@@ -48,7 +48,7 @@ Preprocess the data for network training
     
 You can visualize the labels using
 
-    python show_labels.py  /hkatost/config/model_gp.cfg.json  --set_name train --wait
+    python show_labels.py  /host/config/model_gp.cfg.json  --set_name train --wait
     python show_labels.py  /host/config/model_gp.cfg.json  --set_name eval --wait
 
 The task of this tutorial is fairly easy to learn for the algortihm so to save some time its recommended to shorten the number of training iterations.
@@ -75,7 +75,7 @@ Add the newly trained networks to `data_gp.cfg.json`:
         "trainings/train_bb_run0_graph/frozen_inference_graph.pb"
     ],
     "pose_networks": [
-        "trainings/train_pose_run0_laser1/ckpt/"
+        "trainings/train_pose_run0/ckpt/"
     ],
     
 Make predictions using these networks

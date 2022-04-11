@@ -42,7 +42,6 @@
 2. We used Basler USB 3.0 cameras and found it necessary to use additional PCI extension cards with sufficient USB controllers. Just having many outlets doesn't mean the card can actually transfer data fast enough.
     In our experiments the bottleneck for high FPS recordings lied on the USB transfer rates rather than software or the SSD for storing the videos.     
 3. Our software currently only supports Ubuntu 18, although other operating systems might also work. To the best of our knowledge all libraries used are also available on other platforms.
-4. Your computer need to support AVX instructions (Almost all CPUs do this nowadays)
 
 **Hardware Triggering**
 
