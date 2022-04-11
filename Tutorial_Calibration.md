@@ -1,4 +1,4 @@
-# Tutorial: Adapting FreiPose to a new Task
+# Tutorial: Calibrating cameras
 
 **Goal**: Learn how to create a calibration pattern, calculate and check calibration of your multi-camera recording setup. 
 
